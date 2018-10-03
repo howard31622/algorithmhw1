@@ -35,11 +35,14 @@ This project is algorithm homework1
 
 	
 目標三：bogo sort 的 
-	1.best case : O(n)
+
+1.best case : O(n)
 在best case 的情況下，bogo sort 一次剛好是最佳的排序，再用O(n)的時間複雜度去檢查有沒有正確排序，所以時間複雜度為O(1) x O(n) = O(n)
-	2.worst case : O(∞)
+
+2.worst case : O(∞)
 在worst case 的情況下，bogo sort可能都不會達成最佳的那一次，因此時間複雜度為O(∞)
-	3.average case : O(n x n!)
+
+3.average case : O(n x n!)
 在average case 的情況下，bogo sort 一次是最佳的排序，排列總次數為n!，因此成功的機率為(1/n!)，所以期望值為n!，檢查排序所需要的是O(n)，而最後時間複雜度為O(n!) x O(n) = O(nxn!)
 
 
