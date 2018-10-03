@@ -19,9 +19,10 @@ This project is algorithm homework1
 2-1. 程式碼來源 ：https://gist.github.com/pencil/1253001  
 		
 2-2. 成長曲線圖 ：由圖一中縱軸為時間（毫秒），橫軸為n張卡片。成長曲線看起來以指數型的方式成長，因為起初時還沒差那麼多，但從表一中在n = 9以後所花時間成長速率都不只2倍的方式做增長 （在本次作業中所有數據為跑過5次的平均）
+
+圖一：成長曲線圖（橫軸為數入n個數字，縱軸為T(n)(單位：毫秒)）
 	
-![image]（https://github.com/howard31622/algorithmhw1/blob/master/%E5%9C%96%E7%89%87%201.png)
-		圖一：成長曲線圖（橫軸為數入n個數字，縱軸為T(n)(單位：毫秒)）
+![image](https://github.com/howard31622/algorithmhw1/blob/master/%E5%9C%96%E7%89%87%201.png)
 
 
 表一：成長曲線圖的數值表 	
@@ -74,18 +75,15 @@ This project is algorithm homework1
 從圖二及表二中看得出n=7 和 n=8 中開始快速增長，在n=9雖然有測試，但是多次測試幾個晚上都不一定可以在幾個小時內跑完，尤其在n=8的時候已經跑了50分鐘，相比於原本的bogo sort，差異逐漸越大的趨勢。 
 
   
-		圖二：成長曲線圖（橫軸為數入n個數字，縱軸為T(n)(單位：毫秒)）
+圖二：成長曲線圖（橫軸為數入n個數字，縱軸為T(n)(單位：毫秒)）
 
 ![image](https://github.com/howard31622/algorithmhw1/blob/master/%E5%9C%96%E7%89%87%202.png)
 
 
 
-
-
-
 表二：成長曲線圖的數值表 	
 
-![image]（https://github.com/howard31622/algorithmhw1/blob/master/%E8%A1%A8%E4%BA%8C.png）
+![image](https://github.com/howard31622/algorithmhw1/blob/master/%E8%A1%A8%E4%BA%8C.png)
 
 
 
