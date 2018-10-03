@@ -47,11 +47,11 @@ This project is algorithm homework1
 目標四：自訂一個Algorithm比bogo sort爛
 
 4-1. 自訂的演算法為howard sort ，pseudo-code 如下：
+		
 		int n1 [n]
 		int n2 [n]
 		shuffle(n1)
 		shuffle(n2)
-
 		while(!isBiger(n1,n2) {
 			shuffle(n1)
 			while(!isinorder(n1))shuffle(n2)
