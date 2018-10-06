@@ -1,13 +1,13 @@
 # algorithmhw1
 This project is algorithm homework1
 
+homework introduction
+![image](https://github.com/howard31622/algorithmhw1/blob/master/%E9%A1%8C%E7%9B%AE.JPG)
 
 
+#readme.txt will tell you about how to test the project
 
-
-
-1.readme.txt will tell you about how to test the project
-
+homework resolution
 
 目標一：關於bogo-sort的介紹
 
