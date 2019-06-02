@@ -1,8 +1,7 @@
-# algorithmhw1
+# algorithm 
 This project is algorithm homework1
 
 homework introduction
-![image](https://github.com/howard31622/algorithmhw1/blob/master/%E9%A1%8C%E7%9B%AE.JPG)
 
 
 #readme.txt will tell you about how to test the project
