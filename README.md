@@ -1,5 +1,5 @@
-# algorithm 
-This project is algorithm homework1
+# about algorithm
+This project not only discusses and analyzes  bogo sort  but codes a new project names "howard sort "to worse than bogo sort.
 
 homework introduction
 
